@@ -1,0 +1,1 @@
+De function_app.py file bevat het script. Je kan het script runnen door op f5 te drukken.
